@@ -30,5 +30,3 @@ if base_destino == 2:
 elif base_destino == 10:
     deci = deci
     print(f"El número {numero} en base {base_origen} es {deci} en base 10.")
-else:
-    print("Base de destino no válida. Debe ser 2, 10.")
