@@ -72,4 +72,6 @@ Integrantes del grupo
   - Villalba Juan
 ```
 
+### Video explicativo del proyecto
+
 [![Explicación del Proyecto](https://img.youtube.com/vi/38Qn0yLLBzk/0.jpg)](https://www.youtube.com/watch?v=38Qn0yLLBzk)
